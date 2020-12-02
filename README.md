@@ -1,3 +1,3 @@
 # Dev toolbox
 
-These are my personal dotfiles configs, and other resources.
+These are my personal dotfiles, configs, and other resources.
